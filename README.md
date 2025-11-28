@@ -201,4 +201,8 @@ videoDuration="00:10:20"n videoGenre="Комедія"
 3. Видалити історію переглядів
 4. Вихід
 Введіть номер команди (1-4): 4
+<<<<<<< HEAD
 2025-11-28 09:26:57.373  INFO 18048 --- [ionShutdownHook] org.mongodb.driver.connection            : Closed connection [connectionId{localValue:3, serverValue:24}] to localhost:27017 because the pool has been closed.'''# videohosting_app_mongodb
+=======
+2025-11-28 09:26:57.373  INFO 18048 --- [ionShutdownHook] org.mongodb.driver.connection            : Closed connection [connectionId{localValue:3, serverValue:24}] to localhost:27017 because the pool has been closed.'''
+>>>>>>> 68b1d280e8e94405226c2797c1d6975e63e6af57
